@@ -1,0 +1,47 @@
+LICENSES (Flutter packages used in TaxiMaster)
+
+The following packages are included in this app and may be subject to their respective open source licenses:
+
+• geolocator
+  License: BSD 3-Clause (https://github.com/Baseflow/flutter-geolocator/blob/main/LICENSE)
+
+• shared_preferences
+  License: BSD (https://github.com/flutter/packages/blob/main/packages/shared_preferences/LICENSE)
+
+• url_launcher
+  License: BSD (https://github.com/flutter/packages/blob/main/packages/url_launcher/url_launcher/LICENSE)
+
+• easy_localization
+  License: MIT (https://github.com/aissat/easy_localization/blob/master/LICENSE)
+
+• intl
+  License: BSD (https://github.com/dart-lang/intl/blob/main/LICENSE)
+
+• font_awesome_flutter
+  License: MIT (https://github.com/brianegan/font_awesome_flutter/blob/master/LICENSE)
+
+• pdf / printing
+  License: AGPLv3 (https://github.com/DavBfr/dart_pdf/blob/master/LICENSE)
+
+• share_plus
+  License: BSD (https://github.com/flutter/packages/blob/main/packages/share_plus/LICENSE)
+
+• image_picker
+  License: BSD (https://github.com/flutter/packages/blob/main/packages/image_picker/image_picker/LICENSE)
+
+• flutter_pdfview
+  License: MIT (https://github.com/pycampers/flutter_pdfview/blob/master/LICENSE)
+
+• path_provider
+  License: BSD (https://github.com/flutter/packages/blob/main/packages/path_provider/path_provider/LICENSE)
+
+• app_settings
+  License: MIT (https://github.com/youssefKababe/app_settings/blob/main/LICENSE)
+
+• blue_thermal_printer
+  License: Unknown (proprietary or custom; no license in pub.dev)
+
+• permission_handler
+  License: MIT (https://github.com/Baseflow/flutter-permission-handler/blob/main/LICENSE)
+
+Please refer to each package’s repository for full details.
